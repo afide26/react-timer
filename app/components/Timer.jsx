@@ -1,11 +1,11 @@
 var React          = require('react');
-
+var Clock          = require('Clock')
 var Timer = React.createClass({
   render(){
     return(
-      <p>
-        Timer.jsx Rendered
-      </p>
+      <div>
+        <Clock totalSeconds = {180}/>
+      </div>
     )
   }
 });
