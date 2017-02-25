@@ -1,5 +1,5 @@
-##This is the repository for the [Timer App](http://udemyreacttimer.herokuapp.com/) from the course
-###[Complete React Web App Developer Course](https://www.udemy.com/the-complete-react-web-app-developer-course/)
+##This is the repository for the [Timer App](http://udemyreacttimer.herokuapp.com/) from
+##[The Complete React Web App Developer Course](https://www.udemy.com/the-complete-react-web-app-developer-course/)
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT56_QlEInQ2H21hZrXT4E2x4gIH6iswJaJyPzvN6hTiwIQ3Uvw)
 
 ####Student Name: Alan Fidelino
